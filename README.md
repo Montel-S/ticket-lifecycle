@@ -32,15 +32,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/Fsowwqs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This is the ticket being created from the user or customer. You can notice which topic that this ticket falls up under which can make it easier to identify and solve the problem. You can also view the details in depth about the particular issue in regards to what the customer has experienced if such information was provided.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/1r6YpjO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-In the last example you can the ticket in its last form. It has went through the entire ticket process and has been solved and closed by one of the helpdesk professionals. 
+ 
+ The screenshot above shows the ticket in the actual que. Here you can view and open all the tickets that have been submitted. Another important thing to notice is the priority of the ticket. It is identified as a emergency ticket because the isssue is dealing with an online banking issue, which could result in the company losing out on money. Which is why the ticket is specifically assigned to a particular agent to get it resolved in a timely manner.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ In the last example you can the ticket in its last form. It has went through the
 <img src="https://i.imgur.com/2LYet9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the last example you can the ticket in its last form. It has went through the entire ticket process and has been solved and closed by one of the helpdesk professionals.
+In the last example you can see the ticket in its last form. It has went through the entire ticketing process and has been solved and closed by one of the helpdesk professionals.
 </p>
 <br />
