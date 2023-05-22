@@ -6,7 +6,7 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+
 
 
 <h2>Environments and Technologies Used</h2>
@@ -40,7 +40,7 @@ This is the ticket being created from the user or customer. You can notice which
 <img src="https://i.imgur.com/1r6YpjO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
  
- The screenshot above shows the ticket in the actual que. Here you can view and open all the tickets that have been submitted. Another important thing to notice is the priority of the ticket. It is identified as a emergency ticket because the isssue is dealing with an online banking issue, which could result in the company losing out on money. Which is why the ticket is specifically assigned to a particular agent to get it resolved in a timely manner.
+ The screenshot above shows the ticket in the actual que. Here you can view and open all the tickets that have been submitted. Another important thing to notice is the priority of the ticket. It is classified as a emergency ticket because the ticket is dealing with an online banking issue, which could result in the company losing out on money. Which is why the ticket is specifically assigned to a particular agent to get it resolved in a timely manner.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ This is the ticket being created from the user or customer. You can notice which
 <img src="https://i.imgur.com/2LYet9V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In the last example you can see the ticket in its last form. It has went through the entire ticketing process and has been solved and closed by one of the helpdesk professionals.
+In the last example you can see the ticket in its last stage. It has went through the entire ticketing process and has been solved and closed by one of the helpdesk professionals.
 </p>
 <br />
